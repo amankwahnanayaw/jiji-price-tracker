@@ -2,7 +2,7 @@ JIJI.COM PRICE TRACKER
 
 This script has 2 main functions: 
 1. Get the average price of a product based on the search result
-2. 2. Track and store prices on a day-to-day basis in a CSV file
+2. Track and store prices on a day-to-day basis in a CSV file
 
 Requirement:
 BeautifulSoup4
